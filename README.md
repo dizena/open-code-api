@@ -1,10 +1,10 @@
-# CLI Proxy API
+# Open Code Api
 
 基于 [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 二次开发的 OpenAI/Gemini/Claude 兼容 API 代理服务，提供完整的用户管理、API Key 管理、用量统计和计费功能。
 
 ## 项目简介
 
-CLI Proxy API 是一个功能强大的 AI 模型代理服务，为 CLI 模型提供标准化的 API 接口，使其能够与为 OpenAI、Gemini、Claude 等 AI 服务设计的工具和库无缝集成。
+Open Code Api 是一个功能强大的 AI 模型代理服务，为 CLI 模型提供标准化的 API 接口，使其能够与为 OpenAI、Gemini、Claude 等 AI 服务设计的工具和库无缝集成。
 
 ### 主要特性
 - **任意模型适配**: 支持自定义配置任意主流大模型，完美适配 Codex、Claude Code、Gemini CLI 等开发工具
