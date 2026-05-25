@@ -1,0 +1,21 @@
+host: "0.0.0.0"
+port: 8080
+
+mongodb:
+  enabled: true
+  uri: "mongodb://user:password@ip:port/db"
+  # 
+
+usage-statistics-enabled: true
+
+smtp:
+  enabled: false
+  host: smtp.exmail.qq.com
+  port: 587
+  user: your-email
+  password: your-email-password
+
+remote-management:
+  disable-control-panel: true
+
+debug: true
