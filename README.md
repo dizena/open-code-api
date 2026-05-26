@@ -4,7 +4,7 @@
 
 ## 项目简介
 
-Open Code Api 是一个功能强大的 AI 模型代理服务，为 CLI 模型提供标准化的 API 接口，使其能够与为 OpenAI、Gemini、Claude 等 AI 服务设计的工具和库无缝集成。
+Open Code Api 是一个功能强大的 AI 模型代理服务，为 CLI 模型提供标准化的 API 接口，使其能够与为 Claude Code、Codex 等 AI 服务设计的工具和库无缝集成。
 
 ### 主要特性
 - **任意模型适配**: 支持自定义配置任意主流大模型，完美适配 Codex、Claude Code、Gemini CLI 等开发工具
@@ -363,4 +363,5 @@ npm run preview  # 预览构建结果
 ## 致谢
 
 感谢 [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 原项目提供的优秀基础架构。
+
 感谢 [TopBeeAI](https://www.topbeeai.com) 技术团队提供技术支持。
